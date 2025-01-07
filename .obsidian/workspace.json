@@ -11,40 +11,14 @@
             "id": "ac440b5a3beb6336",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "KANBAN/SUBKARİYER/MÜZİK.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "MÜZİK"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ec18189b1c8bfba3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa8fe079861e6465",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "ÇALINABİLİR ŞARKILAR.md",
+                "file": "ReplikRepo/LM/Leyla Yılmaz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ÇALINABİLİR ŞARKILAR"
+              "title": "Leyla Yılmaz"
             }
           }
         ]
@@ -165,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ÇALINABİLİR ŞARKILAR.md"
+                "file": "ReplikRepo/LM/Leyla Yılmaz.md"
               },
               "icon": "lucide-list",
-              "title": "ÇALINABİLİR ŞARKILAR ana hatları"
+              "title": "Leyla Yılmaz ana hatları"
             }
           },
           {
@@ -200,16 +174,41 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fa8fe079861e6465",
+  "active": "ac440b5a3beb6336",
   "lastOpenFiles": [
-    "KANBAN/SUBKARİYER/MÜZİK.md",
+    "Başlıksız.md",
+    "Pasted image 20240330221038.png",
+    "Pasted image 20240330215832.png",
+    "Pasted image 20240309134315.png",
+    "Pasted image 20240306121103.png",
+    "Pasted image 20240228064726.png",
+    "Pasted image 20240222170433.png",
+    "KANBAN.md",
+    "LAB.md",
+    "market-fis.jpg",
+    "Muya.md",
+    "Pasted image 20240306121033.png",
+    "image (3) 1.png",
+    "KURSA BAŞLA.md",
+    "C3AF5316-BC55-40FB-AC6D-91BE1CDF3346.png",
     "ÇALINABİLİR ŞARKILAR.md",
+    "Adresler.md",
+    "alış v.md",
+    "Başlıksız.canvas",
+    "Başlıksız 1.canvas",
+    "Başlıksız 2.md",
+    "Başlıksız 5.md",
+    "Başlıksız 8.md",
+    "Başlıksız 11.md",
+    "Başlıksız 17.md",
+    "Başlıksız 16.md",
+    "beep (mp3cut.net).mp3",
+    "KANBAN/SUBKARİYER/MÜZİK.md",
     "GÜNLÜK TEKRARLAR.md",
     "KANBAN/SUBKARİYER/DİL.md",
     "KANBAN/SUBKARİYER/SUBYAZILIM/SPRING.md",
     "KANBAN/SUBKARİYER/SUBYAZILIM/QUANTUM.md",
     "PaneuMeasure/Notlar/LOCALDB/Local db.md",
-    "KURSA BAŞLA.md",
     "KANBAN/SUBKARİYER/SUBYAZILIM/Başlıksız",
     "KANBAN/SUBKARİYER/SUBYAZILIM",
     "KANBAN/SUBKARİYER/YAZILIM.md",
@@ -218,37 +217,11 @@
     "KANBAN/SUBKARİYER",
     "Github/Çözüm/Tab View Çözümü.md",
     "1Yapılacaklar/Yapılsın/BABABABA.md",
-    "1Yapılacaklar/Başlıksız.md",
-    "PaneuMeasure/Notlar/Günlük Notlar/23.12.2024.md",
-    "Github/Başlıksız.md",
-    "Untitled Kanban.md",
     "KANBAN",
-    "PaneuMeasure/Notlar/REVIEW NOTLAR/PQMP 57.md",
-    "Untitled Kanban 2.md",
-    "Untitled Kanban 1.md",
-    "PaneuMeasure/Öğrenci/Excel.md",
-    "KANBAN.md",
-    "Başlıksız 1.canvas",
-    "Başlıksız 17.md",
-    "032Bit/İmza.md",
-    "032Bit/Hesaplar.md",
-    "032Bit/Anı.md",
     "PaneuMeasure/Business",
-    "Pasted image 20241230103046.png",
-    "Pasted image 20241227105348.png",
-    "Pasted image 20241225113242 1.png",
-    "Pasted image 20241225113242.png",
-    "Pasted image 20241225113238.png",
-    "Pasted image 20241225113234.png",
-    "Pasted image 20241225113228.png",
-    "Pasted image 20241225113224.png",
-    "Pasted image 20241224025241.png",
-    "Pasted image 20241224025236.png",
     "ReplikRepo/LM",
     "PaneuMeasure/VEHICLE NOLAR",
     "PaneuMeasure/Notlar/REVIEW NOTLAR",
-    "PaneuMeasure/1Versiyon",
-    "WEB ÖDEVİ/İş Akışları",
-    "Başlıksız.canvas"
+    "PaneuMeasure/1Versiyon"
   ]
 }
