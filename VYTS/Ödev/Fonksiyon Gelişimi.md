@@ -1,0 +1,1 @@
+çalışan ve müşteri ayrı olarak eklenip tüm sütunlar doldurulur.

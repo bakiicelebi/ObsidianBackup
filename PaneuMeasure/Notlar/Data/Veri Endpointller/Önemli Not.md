@@ -1,0 +1,3 @@
+- measurements updatete doolu gelecek, dolu geldiğinde cycle bilgisi ile çekilecek, vehiclebasedde ayrı measureId ile çekilecek değerler
+- ölçüm alınıp gönderilirken bodyde measurements dizisi ve vehicleId olacak
+- 

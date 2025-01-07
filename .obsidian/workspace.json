@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "a1878202c25971a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1dec10bc86a4b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac440b5a3beb6336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PaneuMeasure/Notlar/LOCALDB/Local db.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Local db"
+            }
+          },
+          {
+            "id": "054afd1a6e5d232d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PaneuMeasure/VEHICLE NOLAR/Sold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sold"
+            }
+          },
+          {
+            "id": "a165e0a1828c90fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PaneuMeasure/Notlar/Günlük Notlar/23.12.2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23.12.2024"
+            }
+          },
+          {
+            "id": "dcb3038f44dcb971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github/Çözüm/Tab View Çözümü.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tab View Çözümü"
+            }
+          },
+          {
+            "id": "8d9d63f954e85769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PaneuMeasure/Notlar/REVIEW NOTLAR/PQMP 57.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PQMP 57"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "532da5d63ca072b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "920c3a207bf2fb59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fecf0e54502b8dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "47d96c029bc752ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "icon",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "279cfe0c70603fff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "51b8837358dd899d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e1b96238f8fe683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1374e95fc2e4c9e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QATorque/Proje/Tasarım Notları/Notlar/İlerleyiş.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "İlerleyiş için geri bağlantılar"
+            }
+          },
+          {
+            "id": "1c2db2cbfd6c39a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QATorque/Proje/Tasarım Notları/Notlar/İlerleyiş.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "İlerleyiş'dan giden bağlantılar"
+            }
+          },
+          {
+            "id": "042adf439a1096d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "d271ed6b701b5a5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KANBAN/Untitled Kanban.md"
+              },
+              "icon": "lucide-list",
+              "title": "Untitled Kanban ana hatları"
+            }
+          },
+          {
+            "id": "90372cfb3dd27412",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "90372cfb3dd27412",
+  "lastOpenFiles": [
+    "Github/Başlıksız.md",
+    "Github/Çözüm/Tab View Çözümü.md",
+    "KANBAN/Untitled Kanban.md",
+    "Untitled Kanban.md",
+    "KANBAN",
+    "PaneuMeasure/Notlar/REVIEW NOTLAR/PQMP 57.md",
+    "Untitled Kanban 2.md",
+    "Untitled Kanban 1.md",
+    "PaneuMeasure/Öğrenci/Excel.md",
+    "KANBAN.md",
+    "Başlıksız 1.canvas",
+    "Başlıksız 17.md",
+    "1Yapılacaklar/Başlıksız.md",
+    "032Bit/İmza.md",
+    "032Bit/Hesaplar.md",
+    "032Bit/Anı.md",
+    "032Bit/Notlar Toplantı.md",
+    "PaneuMeasure/Deploy/Deploy Notlar/Test.md",
+    "PaneuMeasure/Deploy/Deploy Notlar/Önemli not erişim için.md",
+    "PaneuMeasure/Deploy/Deploy Notlar/İlk Deploy.md",
+    "PaneuMeasure/Deploy/Deploy Notlar/Deploy kodları ve gereksinimleri.md",
+    "PaneuMeasure/Notlar/Mobil Deployu Hk..md",
+    "PaneuMeasure/Notlar/REVIEW NOTLAR/Başlıksız 1.md",
+    "PaneuMeasure/Notlar/REVIEW NOTLAR/Bitmemişler.md",
+    "PaneuMeasure/Proje/Tasarım Notları/Notlar/Review Notları.md",
+    "React-Native/Kütüphaneler/Vector Icons/Başla.md",
+    "T32/PROJE TAKİBİ/Başlangıç/Çözümler/ses.md",
+    "T32/ANA GİDİŞAT/BAŞLANGIÇ ÇÖZÜMLERİ/NODE MODULES DÜZENLEMELERİ.md",
+    "PaneuMeasure/Business",
+    "Pasted image 20241230103046.png",
+    "Pasted image 20241227105348.png",
+    "Pasted image 20241225113242 1.png",
+    "Pasted image 20241225113242.png",
+    "Pasted image 20241225113238.png",
+    "Pasted image 20241225113234.png",
+    "Pasted image 20241225113228.png",
+    "Pasted image 20241225113224.png",
+    "Pasted image 20241224025241.png",
+    "Pasted image 20241224025236.png",
+    "ReplikRepo/LM",
+    "PaneuMeasure/VEHICLE NOLAR",
+    "PaneuMeasure/Notlar/REVIEW NOTLAR",
+    "PaneuMeasure/1Versiyon",
+    "WEB ÖDEVİ/İş Akışları",
+    "PaneuMeasure/Notlar/LOCALDB",
+    "WEB ÖDEVİ/Git Kullanımı",
+    "WEB ÖDEVİ",
+    "Başlıksız.canvas"
+  ]
+}

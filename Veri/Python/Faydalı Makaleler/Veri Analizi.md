@@ -1,0 +1,1 @@
+https://medium.com/@ilaydakursun/python-ile-veri-analizi-12730cc3b67f

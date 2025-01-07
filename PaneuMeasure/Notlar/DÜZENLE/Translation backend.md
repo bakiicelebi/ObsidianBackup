@@ -1,0 +1,1 @@
+- [x] check_item_measure_not_found    silineni tekrar silince  

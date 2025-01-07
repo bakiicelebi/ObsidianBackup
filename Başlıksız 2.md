@@ -1,0 +1,1 @@
+herkesten daha iyi yapacağıma herkesten daha çok ben inanıyorum

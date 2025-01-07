@@ -1,0 +1,1 @@
+![[DALL·E 2024-12-19 01.22.28 - A detailed flowchart for a salon management web application. The diagram starts with the Home Page at the top. From Home Page, there are branches for .webp]]

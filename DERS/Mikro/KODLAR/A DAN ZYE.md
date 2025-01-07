@@ -1,0 +1,34 @@
+ORG 0H
+	SJMP BASLA
+
+ORG 001BH
+	LJMP TIMER_ISR1
+
+ORG 30H
+	
+	BASLA:
+		MOV SCON,#50H
+		MOV TMOD, #20H
+		MOV TH1, #-255
+		MOV TL1, #-255
+		SETB TR1
+		
+		MOV A,#65
+		SETB EA;
+		SETB ET1;
+		SJMP $
+	
+	
+	TIMER_ISR1:
+		
+		CJNE A,#90,DEVAM
+		MOV A,#65
+		DEVAM:
+		MOV SBUF,A
+		INC A;
+	WAIT_FOR_TX:
+    JNB TI, WAIT_FOR_TX ; TI bayragi set olana kadar bekle
+    CLR TI  
+		RETI
+		
+END

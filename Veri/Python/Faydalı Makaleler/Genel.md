@@ -1,0 +1,1 @@
+https://medium.com/@analiyzer/nereden-ba%C5%9Flamal%C4%B1y%C4%B1m-veri-bilimi-makine-%C3%B6%C4%9Frenmesi-nas%C4%B1l-%C3%B6%C4%9Frenirim-ac67155a13d5
