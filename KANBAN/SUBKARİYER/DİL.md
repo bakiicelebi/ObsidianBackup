@@ -6,7 +6,9 @@ kanban-plugin: board
 
 ## TO-DO
 
-- [ ] [[KURSA BAŞLA]]
+- [ ] SPEAKING CLUBS
+- [ ] TEKRAR ÇALIŞMALAR
+- [ ] LISTENING
 
 
 ## IN PROGRESS

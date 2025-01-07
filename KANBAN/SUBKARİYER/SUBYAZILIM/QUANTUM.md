@@ -6,6 +6,9 @@ kanban-plugin: board
 
 ## TO-DO
 
+- [ ] KİTAP OKU
+- [ ] KURSA DEVAM ET
+- [ ] ARAŞTIRMA YAP
 
 
 ## IN PROGRESS

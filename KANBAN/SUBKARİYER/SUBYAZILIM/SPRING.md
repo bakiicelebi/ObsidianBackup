@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## TO-DO
 
+- [ ] KURSA BAŞLA
 
 
 ## IN PROGRESS

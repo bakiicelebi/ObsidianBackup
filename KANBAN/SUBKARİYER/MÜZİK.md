@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## TO-DO
 
+- [ ] [[GÜNLÜK TEKRARLAR]]
+- [ ] [[ÇALINABİLİR ŞARKILAR]]
 
 
 ## IN PROGRESS
