@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1a1dec10bc86a4b9",
+        "id": "681fef2bb551ce73",
         "type": "tabs",
         "children": [
           {
-            "id": "ac440b5a3beb6336",
+            "id": "13e694aaf250c613",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sanat Sepet/Tablolar/Van Gogh/Montmajourda Günbatımı (Sunset at Montmajour).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Montmajourda Günbatımı (Sunset at Montmajour)"
+              "title": "Yeni sekme"
             }
           }
         ]
@@ -174,11 +170,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ac440b5a3beb6336",
+  "active": "7fecf0e54502b8dd",
   "lastOpenFiles": [
+    "1Yapılacaklar/Yapılsın/YAPILACAKLAR.md",
+    "1Yapılacaklar/Yapılsın/BABABABA.md",
+    "1Yapılacaklar/Başlıksız.md",
+    "032Bit/İmza.md",
+    "032Bit/Notlar Toplantı.md",
+    "032Bit/Anı.md",
+    "032Bit/Hesaplar.md",
+    "PaneuMeasure/Öğrenci/Excel.md",
+    "PaneuMeasure/1Versiyon/Version Takibi.md",
+    "PaneuMeasure/Business/Çalışma mesai.md",
+    "Toyota/Hesaplar.md",
+    "KANBAN/KARİYER.md",
+    "KANBAN/SUBKARİYER/YAZILIM.md",
+    "KANBAN/SUBKARİYER/MÜZİK.md",
+    "KANBAN/SUBKARİYER/DİL.md",
+    "KANBAN/SUBKARİYER/SUBYAZILIM/SPRING.md",
+    "KANBAN/SUBKARİYER/SUBYAZILIM/QUANTUM.md",
+    "Sanat Sepet/Tablolar/Van Gogh/Montmajourda Günbatımı (Sunset at Montmajour).md",
     "Pasted image 20250115031351.png",
     "Ödemeler/Hilal.md",
-    "Sanat Sepet/Tablolar/Van Gogh/Montmajourda Günbatımı (Sunset at Montmajour).md",
     "Sanat Sepet/Tablolar/Van Gogh",
     "Sanat Sepet/Tablolar",
     "Sanat Sepet",
@@ -193,33 +206,16 @@
     "Başlıksız 9.md",
     "Başlıksız 8.md",
     "Başlıksız 7.md",
-    "Başlıksız 5.md",
-    "Başlıksız 4.md",
-    "Başlıksız 3.md",
-    "Başlıksız 2.md",
-    "Başlıksız 1.md",
     "Başlıksız 1.canvas",
-    "Başlıksız.md",
     "Başlıksız.canvas",
-    "alış v.md",
-    "Adresler.md",
-    "11KART.md",
-    "0SINAVLAR.md",
-    "@Etkinlik.md",
-    "ReplikRepo/LM/Leyla Yılmaz.md",
-    "ReplikRepo/Gibi/4x8.md",
     "Pasted image 20240330221038.png",
     "Pasted image 20240330215832.png",
     "Pasted image 20240309134315.png",
     "Pasted image 20240306121103.png",
     "Pasted image 20240228064726.png",
     "Pasted image 20240222170433.png",
-    "KANBAN.md",
-    "LAB.md",
     "market-fis.jpg",
-    "Muya.md",
     "Pasted image 20240306121033.png",
-    "image (3) 1.png",
     "beep (mp3cut.net).mp3",
     "KANBAN/SUBKARİYER/SUBYAZILIM/Başlıksız",
     "KANBAN/SUBKARİYER/SUBYAZILIM",
