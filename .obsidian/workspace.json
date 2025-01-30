@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaneuMeasure/Öğrenci/Excel.md",
+                "file": "PaneuMeasure/Notlar/LOCALDB/Local db.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Excel"
+              "title": "Local db"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "13e694aaf250c613",
   "lastOpenFiles": [
+    "PaneuMeasure/Öğrenci/Excel.md",
     "032Bit/Hesaplar.md",
     "1Yapılacaklar/Yapılsın/YAPILACAKLAR.md",
     "1Yapılacaklar/Yapılsın/BABABABA.md",
@@ -183,7 +184,6 @@
     "032Bit/İmza.md",
     "032Bit/Notlar Toplantı.md",
     "032Bit/Anı.md",
-    "PaneuMeasure/Öğrenci/Excel.md",
     "PaneuMeasure/1Versiyon/Version Takibi.md",
     "PaneuMeasure/Business/Çalışma mesai.md",
     "Toyota/Hesaplar.md",
