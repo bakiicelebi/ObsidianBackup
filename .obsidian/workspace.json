@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Başlıksız"
             }
+          },
+          {
+            "id": "fb80963bebfcb83f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Dosya Gezgini"
@@ -174,7 +188,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "13e694aaf250c613",
+  "active": "fb80963bebfcb83f",
   "lastOpenFiles": [
     "PaneuMeasure/Notlar/LOCALDB/Local db.md",
     "PaneuMeasure/Öğrenci/Excel.md",
