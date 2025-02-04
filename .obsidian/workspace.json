@@ -25,12 +25,14 @@
             "id": "fb80963bebfcb83f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "PaneuMeasure/LessonsLearnt/Paketler/Package json overriding.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Package json overriding"
             }
           }
         ],
@@ -190,6 +192,10 @@
   },
   "active": "fb80963bebfcb83f",
   "lastOpenFiles": [
+    "Pasted image 20250204172736.png",
+    "PaneuMeasure/LessonsLearnt/Paketler/Package json overriding.md",
+    "PaneuMeasure/LessonsLearnt/Paketler",
+    "PaneuMeasure/LessonsLearnt",
     "PaneuMeasure/Notlar/LOCALDB/Local db.md",
     "PaneuMeasure/Öğrenci/Excel.md",
     "032Bit/Hesaplar.md",
@@ -222,8 +228,6 @@
     "GÜNLÜK TEKRARLAR.md",
     "ReplikRepo/Sopranıs/Başlıksız 10.md",
     "ReplikRepo/Sopranıs",
-    "Başlıksız 9.md",
-    "Başlıksız 8.md",
     "Başlıksız 1.canvas",
     "Başlıksız.canvas",
     "Pasted image 20240330221038.png",
@@ -235,8 +239,6 @@
     "market-fis.jpg",
     "Pasted image 20240306121033.png",
     "beep (mp3cut.net).mp3",
-    "KANBAN/SUBKARİYER/SUBYAZILIM/Başlıksız",
-    "KANBAN/SUBKARİYER/SUBYAZILIM",
-    "KANBAN/SUBKARİYER"
+    "KANBAN/SUBKARİYER/SUBYAZILIM/Başlıksız"
   ]
 }
