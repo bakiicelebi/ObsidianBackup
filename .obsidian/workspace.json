@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaneuMeasure/LessonsLearnt/Paketler/Package json overriding.md",
+                "file": "PaneuMeasure/LessonsLearnt/LocalLogging/Localde log tutmak için.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Package json overriding"
+              "title": "Localde log tutmak için"
             }
           }
         ],
@@ -190,11 +190,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7fecf0e54502b8dd",
+  "active": "fb80963bebfcb83f",
   "lastOpenFiles": [
-    "PaneuMeasure/LessonsLearnt/Başlıksız",
-    "Pasted image 20250204172736.png",
     "PaneuMeasure/LessonsLearnt/Paketler/Package json overriding.md",
+    "PaneuMeasure/LessonsLearnt/LocalLogging/Localde log tutmak için.md",
+    "PaneuMeasure/LessonsLearnt/LocalLogging",
+    "Pasted image 20250204172736.png",
     "PaneuMeasure/LessonsLearnt/Paketler",
     "PaneuMeasure/LessonsLearnt",
     "PaneuMeasure/Notlar/LOCALDB/Local db.md",
@@ -238,7 +239,6 @@
     "Pasted image 20240228064726.png",
     "Pasted image 20240222170433.png",
     "market-fis.jpg",
-    "beep (mp3cut.net).mp3",
-    "KANBAN/SUBKARİYER/SUBYAZILIM/Başlıksız"
+    "beep (mp3cut.net).mp3"
   ]
 }
