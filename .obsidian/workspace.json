@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 223.5
   },
   "right": {
     "id": "51b8837358dd899d",
@@ -190,7 +190,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fb80963bebfcb83f",
+  "active": "90372cfb3dd27412",
   "lastOpenFiles": [
     "PaneuMeasure/LessonsLearnt/LocalLogging/Localde log tutmak için.md",
     "PaneuMeasure/0ÖNEMLİ/Dikkat.md",

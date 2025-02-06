@@ -1,1 +1,3 @@
 - any ayarları contextler için
+- gereksiz renderlar var mı emin ol
+- performans analiz tool ile logları incele
