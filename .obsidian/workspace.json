@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaneuMeasure/Deploy/Deploy Notlar/Deploy kodları ve gereksinimleri.md",
+                "file": "React-Native/Başlarken/Komutlar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploy kodları ve gereksinimleri"
+              "title": "Komutlar"
             }
           }
         ],
@@ -192,6 +192,7 @@
   },
   "active": "fb80963bebfcb83f",
   "lastOpenFiles": [
+    "PaneuMeasure/Deploy/Deploy Notlar/Deploy kodları ve gereksinimleri.md",
     "PaneuMeasure/Proje/Ekstralar/Kulaklık Mac.md",
     "PaneuMeasure/Öğrenci/Excel.md",
     "PaneuMeasure/Notlar/LOCALDB/ülkeye göre sunucu.md",
@@ -227,7 +228,6 @@
     "Sanat Sepet/Tablolar",
     "Sanat Sepet",
     "WhatsApp Görsel 2025-01-15 saat 03.05.49_171b321c.jpg",
-    "React-Native/ADB Komutlar/ADB Komutlar 1.md",
     "Ödemeler",
     "React-Native/ADB Komutlar",
     "ReplikRepo/Sopranıs",
