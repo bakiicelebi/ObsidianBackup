@@ -1,1 +1,2 @@
-- bottleneck: darboğaz, sıkıntılı durum
+- **bottleneck**: darboğaz, sıkıntılı durum - give you a general idea of where bottlenecks might be
+- 
