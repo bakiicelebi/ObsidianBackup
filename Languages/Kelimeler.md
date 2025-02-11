@@ -1,0 +1,1 @@
+- bottleneck: darboğaz, sıkıntılı durum

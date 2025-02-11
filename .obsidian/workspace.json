@@ -11,10 +11,14 @@
             "id": "70a773a637b539c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Kelimeler.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Yeni sekme"
+              "title": "Kelimeler"
             }
           }
         ]
@@ -171,8 +175,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "90372cfb3dd27412",
+  "active": "70a773a637b539c3",
   "lastOpenFiles": [
+    "Languages/Kelimeler.md",
+    "Languages",
     "ReplikRepo/LM/Leyla Yılmaz.md",
     "ReplikRepo/Gibi/4x8.md",
     "React-Native/Başlarken/Komutlar.md",
@@ -203,7 +209,6 @@
     "KANBAN/SUBKARİYER/YAZILIM.md",
     "KANBAN/SUBKARİYER/MÜZİK.md",
     "KANBAN/SUBKARİYER/DİL.md",
-    "KANBAN/SUBKARİYER/SUBYAZILIM/SPRING.md",
     "Pasted image 20250115031351.png",
     "Sanat Sepet/Tablolar/Van Gogh",
     "Sanat Sepet/Tablolar",
@@ -211,7 +216,6 @@
     "WhatsApp Görsel 2025-01-15 saat 03.05.49_171b321c.jpg",
     "Ödemeler",
     "React-Native/ADB Komutlar",
-    "ReplikRepo/Sopranıs",
     "Başlıksız 1.canvas",
     "Başlıksız.canvas",
     "Pasted image 20240330221038.png",
