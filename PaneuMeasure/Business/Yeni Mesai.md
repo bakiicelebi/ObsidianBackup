@@ -6,4 +6,4 @@
 | Çarşamba  | 09.00 - 18.30                  | 9,5 saat    |
 | Perşembe  | 12.00 - 18.30                  | 6,5 saat    |
 | Cuma      | -                              | 0 saat      |
-| Toplam    | -                              |             |
+| Toplam    | -                              | 22,5 saat   |
