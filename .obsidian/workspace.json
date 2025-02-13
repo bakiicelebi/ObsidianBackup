@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaneuMeasure/Business/Yeni Mesai.md",
+                "file": "PaneuMeasure/LessonsLearnt/APK/Apk deployunda vpn ile node erişimi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yeni Mesai"
+              "title": "Apk deployunda vpn ile node erişimi"
             }
           }
         ]
@@ -177,13 +177,15 @@
   },
   "active": "5ee320943508eaea",
   "lastOpenFiles": [
+    "PaneuMeasure/Business/Yeni Mesai.md",
+    "PaneuMeasure/LessonsLearnt/APK/Apk deployunda vpn ile node erişimi.md",
+    "PaneuMeasure/LessonsLearnt/APK",
     "PaneuMeasure/Notlar/0BUGFIX/EKLENECEK LOG.md",
     "PaneuMeasure/LessonsLearnt/Functions/Mutex.md",
     "PaneuMeasure/Notlar/0BUGFIX",
     "PaneuMeasure/LessonsLearnt/Functions/Date ISO but local.md",
     "PaneuMeasure/LessonsLearnt/LocalLogging/Localde log tutmak için.md",
     "PaneuMeasure/LessonsLearnt/Paketler/Package json overriding.md",
-    "PaneuMeasure/Business/Yeni Mesai.md",
     "PaneuMeasure/Business/Çalışma mesai.md",
     "PaneuMeasure/Öğrenci/Excel.md",
     "PaneuMeasure/LessonsLearnt/Functions/Başlıksız",
@@ -212,9 +214,7 @@
     "032Bit/İmza.md",
     "032Bit/Notlar Toplantı.md",
     "032Bit/Anı.md",
-    "PaneuMeasure/1Versiyon/Version Takibi.md",
     "Pasted image 20250115031351.png",
-    "Sanat Sepet/Tablolar/Van Gogh",
     "WhatsApp Görsel 2025-01-15 saat 03.05.49_171b321c.jpg",
     "Başlıksız 1.canvas",
     "Başlıksız.canvas",
