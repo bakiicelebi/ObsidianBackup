@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaneuMeasure/Business/Yeni Mesai.md",
+                "file": "ReplikRepo/LM/Leyla Yılmaz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yeni Mesai"
+              "title": "Leyla Yılmaz"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "51b8837358dd899d",
@@ -178,9 +177,10 @@
   },
   "active": "5ee320943508eaea",
   "lastOpenFiles": [
+    "Pasted image 20250216224044.png",
+    "PaneuMeasure/Business/Yeni Mesai.md",
     "PaneuMeasure/Business/Çalışma mesai.md",
     "PaneuMeasure/LessonsLearnt/APK/Apk deployunda vpn ile node erişimi.md",
-    "PaneuMeasure/Business/Yeni Mesai.md",
     "PaneuMeasure/LessonsLearnt/APK",
     "PaneuMeasure/Notlar/0BUGFIX/EKLENECEK LOG.md",
     "PaneuMeasure/LessonsLearnt/Functions/Mutex.md",
@@ -214,7 +214,6 @@
     "1Yapılacaklar/Başlıksız.md",
     "032Bit/İmza.md",
     "032Bit/Notlar Toplantı.md",
-    "032Bit/Anı.md",
     "Pasted image 20250115031351.png",
     "WhatsApp Görsel 2025-01-15 saat 03.05.49_171b321c.jpg",
     "Başlıksız 1.canvas",
