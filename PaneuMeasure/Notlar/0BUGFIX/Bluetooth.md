@@ -1,0 +1,1 @@
+refreshpda fonksiyonunda connected device yokken success de geldi
