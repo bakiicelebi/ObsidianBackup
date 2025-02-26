@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaneuMeasure/Notlar/0BUGFIX/Bluetooth.md",
+                "file": "032Bit/Hesaplar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bluetooth"
+              "title": "Hesaplar"
             }
           }
         ]
@@ -177,9 +177,9 @@
   },
   "active": "5ee320943508eaea",
   "lastOpenFiles": [
+    "PaneuMeasure/Notlar/0BUGFIX/Bluetooth.md",
     "Pasted image 20250220191009.png",
     "PaneuMeasure/Notlar/0BUGFIX/EKLENECEK LOG.md",
-    "PaneuMeasure/Notlar/0BUGFIX/Bluetooth.md",
     "PaneuMeasure/Notlar/0BUGFIX/COMMON VALIDATION.md",
     "PaneuMeasure/Notlar/0BUGFIX/Başlıksız.md",
     "PaneuMeasure/Business/Yeni Mesai.md",
@@ -223,7 +223,6 @@
     "Pasted image 20240330215832.png",
     "Pasted image 20240309134315.png",
     "Pasted image 20240306121103.png",
-    "Pasted image 20240228064726.png",
-    "Pasted image 20240222170433.png"
+    "Pasted image 20240228064726.png"
   ]
 }

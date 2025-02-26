@@ -1,4 +1,7 @@
 
+youtube
+Baki.325374490
+
 zoom
 abdulbaki.celebi@32bit.com.tr
 Abdulbaki.32
