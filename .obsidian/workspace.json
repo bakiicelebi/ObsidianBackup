@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "siber"
             }
+          },
+          {
+            "id": "7973772c828ad87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "032Bit/Hesaplar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hesaplar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +190,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5ee320943508eaea",
+  "active": "7973772c828ad87a",
   "lastOpenFiles": [
     "Pasted image 20250227164440.png",
     "Pasted image 20250227164435.png",
