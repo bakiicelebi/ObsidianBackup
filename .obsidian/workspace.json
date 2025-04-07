@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toyota/Hesaplar.md",
+                "file": "032Bit/Rapor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hesaplar"
+              "title": "Rapor"
             }
           }
         ],
@@ -204,12 +204,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7fecf0e54502b8dd",
+  "active": "a0e728184649772c",
   "lastOpenFiles": [
+    "Toyota/Hesaplar.md",
+    "032Bit/Rapor.md",
     "Başlıksız",
     "1Yapılacaklar/Yapılsın/YAPILACAKLAR.md",
     "032Bit/siber.md",
-    "Toyota/Hesaplar.md",
     "032Bit/Hesaplar.md",
     "1Yapılacaklar/sor.md",
     "Pasted image 20250326154757.png",
@@ -248,7 +249,6 @@
     "PaneuMeasure/0ÖNEMLİ",
     "PaneuMeasure/LessonsLearnt/LocalLogging",
     "Pasted image 20250204172736.png",
-    "PaneuMeasure/LessonsLearnt/Paketler",
     "Pasted image 20250115031351.png",
     "WhatsApp Görsel 2025-01-15 saat 03.05.49_171b321c.jpg",
     "Başlıksız 1.canvas",
