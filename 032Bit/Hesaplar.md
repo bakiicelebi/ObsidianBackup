@@ -77,3 +77,7 @@ ME99248
 
 jira
 ![[Pasted image 20240912161136.png]]
+
+
+acelebi
+Baki.325374490

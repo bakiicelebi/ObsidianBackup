@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPENROUTER/assaaskeyasa.md",
+                "file": "032Bit/Hesaplar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "assaaskeyasa"
+              "title": "Hesaplar"
             }
           }
         ],
@@ -218,10 +218,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "90372cfb3dd27412",
+  "active": "ce13a523a357644c",
   "lastOpenFiles": [
-    "032Bit/İmza.md",
     "OPENROUTER/assaaskeyasa.md",
+    "032Bit/İmza.md",
     "OPENROUTER",
     "REACT/Hooks/Performans/Cheat Sheet.md",
     "REACT/Hooks/Performans/Cheat Sheet Örnek.md",
