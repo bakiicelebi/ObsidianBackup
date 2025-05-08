@@ -15,7 +15,7 @@
 
 
 
-## Home
+## Home,
 
 ~~1 Grafik verisi düzenle~~
 
