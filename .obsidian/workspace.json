@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "siber"
             }
-          },
-          {
-            "id": "7973772c828ad87a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1Yapılacaklar/Yapılsın/YAPILACAKLAR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "YAPILACAKLAR"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,11 +167,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 528.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +185,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7973772c828ad87a",
+  "active": "90372cfb3dd27412",
   "lastOpenFiles": [
-    "OPENROUTER/assaaskeyasa.md",
+    "Untitled Kanban 3.md",
     "1Yapılacaklar/Yapılsın/YAPILACAKLAR.md",
+    "OPENROUTER/assaaskeyasa.md",
     "OPENROUTER",
     "Başlıksız 2.md",
     "Başlıksız 1.canvas",
