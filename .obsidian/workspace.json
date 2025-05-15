@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "032Bit/Rapor.md",
+                "file": "Backend/Springboot/Dersler/Query Methods/Keywords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rapor"
+              "title": "Keywords"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "032Bit/Rapor.md",
+                "file": "Backend/Springboot/Dersler/Query Methods/Keywords.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Rapor ana hatları"
+              "title": "Keywords ana hatları"
             }
           },
           {
@@ -219,6 +219,14 @@
   },
   "active": "3ee9d45baf77b18a",
   "lastOpenFiles": [
+    "Pasted image 20250515134458.png",
+    "Pasted image 20250515134440.png",
+    "032Bit/Rapor.md",
+    "Backend/Springboot/Dersler/Query Methods/Keywords.md",
+    "Backend/Springboot/Dersler/Query Methods",
+    "Backend/Springboot/Dersler",
+    "Backend/Springboot",
+    "Backend",
     "PaneuMeasure/Öğrenci/Excel.md",
     "REACT/Hooks/Performans/Cheat Sheet Örnek.md",
     "R/Başlarken.md",
@@ -242,7 +250,6 @@
     "REACT/Başlıksız.md",
     "REACT/Hooks/Performans",
     "REACT/Hooks",
-    "032Bit/Rapor.md",
     "REACT",
     "Toyota/Hesaplar.md",
     "Başlıksız",
@@ -251,21 +258,14 @@
     "Başlıksız 18.md",
     "1Yapılacaklar/Yapılsın/BABABABA.md",
     "0000/Gereksinimler.md",
-    "Başlıksız 10.md",
-    "0000",
     "Pasted image 20250227164440.png",
     "Pasted image 20250227164435.png",
     "Pasted image 20250227161716.png",
-    "PaneuMeasure/Notlar/0BUGFIX/Bluetooth.md",
     "Pasted image 20250220191009.png",
     "Pasted image 20250216224044.png",
-    "PaneuMeasure/LessonsLearnt/APK",
-    "PaneuMeasure/Notlar/0BUGFIX",
-    "PaneuMeasure/LessonsLearnt/Functions/Başlıksız",
     "Pasted image 20250204172736.png",
     "Pasted image 20250115031351.png",
     "WhatsApp Görsel 2025-01-15 saat 03.05.49_171b321c.jpg",
-    "Başlıksız.canvas",
-    "Pasted image 20240330221038.png"
+    "Başlıksız.canvas"
   ]
 }
