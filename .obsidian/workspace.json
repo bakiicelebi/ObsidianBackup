@@ -39,14 +39,14 @@
             "id": "3ee9d45baf77b18a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Backend/Springboot/Dersler/Toyota yönelik/İsmail'in tavsiyesi.md",
-                "mode": "source",
-                "source": false
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "İsmail'in tavsiyesi"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
@@ -169,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Springboot/Dersler/Toyota yönelik/İsmail'in tavsiyesi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "İsmail'in tavsiyesi ana hatları"
+              "title": "Anahat"
             }
           },
           {
@@ -217,10 +216,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7fecf0e54502b8dd",
+  "active": "90372cfb3dd27412",
   "lastOpenFiles": [
-    "Backend/Springboot/Dersler/Query Methods/Keywords.md",
     "Backend/Springboot/Dersler/Toyota yönelik/İsmail'in tavsiyesi.md",
+    "conflict-files-obsidian-git.md",
+    "OPENROUTER/key.md",
+    "OPENROUTER",
+    "Backend/Springboot/Dersler/Query Methods/Keywords.md",
     "Backend/Springboot/Dersler/Toyota yönelik",
     "Backend/Springboot/Başlıksız",
     "Pasted image 20250515134458.png",
@@ -239,7 +241,6 @@
     "Untitled Kanban 3.md",
     "1Yapılacaklar/Yapılsın/YAPILACAKLAR.md",
     "OPENROUTER/assaaskeyasa.md",
-    "OPENROUTER",
     "Başlıksız 2.md",
     "Başlıksız 1.canvas",
     "Başlıksız.md",
@@ -257,8 +258,6 @@
     "1Yapılacaklar/sor.md",
     "Pasted image 20250326154757.png",
     "Başlıksız 18.md",
-    "1Yapılacaklar/Yapılsın/BABABABA.md",
-    "0000/Gereksinimler.md",
     "Pasted image 20250227164440.png",
     "Pasted image 20250227164435.png",
     "Pasted image 20250227161716.png",
