@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "032Bit/siber.md",
+                "file": "Backend/Springboot/Dersler/Query Methods/Gpt/Örnekler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "siber"
+              "title": "Örnekler"
             }
           }
         ]
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Backend/Springboot/Dersler/Query Methods/Gpt/Örnekler.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Anahat"
+              "title": "Örnekler ana hatları"
             }
           },
           {
@@ -187,13 +188,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "90372cfb3dd27412",
+  "active": "5ee320943508eaea",
   "lastOpenFiles": [
+    "Backend/Springboot/Dersler/Query Methods/Udemy/Keywords.md",
+    "Backend/Springboot/Dersler/Query Methods/Gpt/Örnekler.md",
+    "Backend/Springboot/Dersler/Query Methods/Udemy",
+    "Backend/Springboot/Dersler/Query Methods/Gpt",
+    "Backend/Springboot/Dersler/Query Methods/Gpt/Açıklama.md",
+    "032Bit/siber.md",
     "Backend/Springboot/Dersler/Toyota yönelik/İsmail'in tavsiyesi.md",
     "conflict-files-obsidian-git.md",
     "OPENROUTER/key.md",
     "OPENROUTER",
-    "Backend/Springboot/Dersler/Query Methods/Keywords.md",
     "Backend/Springboot/Dersler/Toyota yönelik",
     "Backend/Springboot/Başlıksız",
     "Pasted image 20250515134458.png",
@@ -208,7 +214,6 @@
     "R/Başlarken.md",
     "Başlıksız 21.md",
     "Başlıksız 20.md",
-    "032Bit/siber.md",
     "Untitled Kanban 3.md",
     "1Yapılacaklar/Yapılsın/YAPILACAKLAR.md",
     "OPENROUTER/assaaskeyasa.md",
@@ -223,12 +228,7 @@
     "REACT/Hooks/Performans/Cheat Sheet.md",
     "REACT/Hooks/Performans/Başlıksız",
     "REACT/Başlıksız.md",
-    "REACT/Hooks/Performans",
-    "REACT/Hooks",
-    "Toyota/Hesaplar.md",
-    "1Yapılacaklar/sor.md",
     "Pasted image 20250326154757.png",
-    "Başlıksız 18.md",
     "Pasted image 20250227164440.png",
     "Pasted image 20250227164435.png",
     "Pasted image 20250227161716.png",
