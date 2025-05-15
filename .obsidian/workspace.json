@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Springboot/Dersler/Query Methods/Keywords.md",
+                "file": "Backend/Springboot/Dersler/Toyota yönelik/İsmail'in tavsiyesi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keywords"
+              "title": "İsmail'in tavsiyesi"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "open ai api key",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Yer İmleri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Springboot/Dersler/Query Methods/Keywords.md",
+                "file": "Backend/Springboot/Dersler/Toyota yönelik/İsmail'in tavsiyesi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Keywords ana hatları"
+              "title": "İsmail'in tavsiyesi ana hatları"
             }
           },
           {
@@ -199,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -217,12 +218,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3ee9d45baf77b18a",
+  "active": "47d96c029bc752ad",
   "lastOpenFiles": [
+    "Backend/Springboot/Dersler/Query Methods/Keywords.md",
+    "Backend/Springboot/Dersler/Toyota yönelik/İsmail'in tavsiyesi.md",
+    "Backend/Springboot/Dersler/Toyota yönelik",
+    "Backend/Springboot/Başlıksız",
     "Pasted image 20250515134458.png",
     "Pasted image 20250515134440.png",
     "032Bit/Rapor.md",
-    "Backend/Springboot/Dersler/Query Methods/Keywords.md",
     "Backend/Springboot/Dersler/Query Methods",
     "Backend/Springboot/Dersler",
     "Backend/Springboot",
@@ -250,9 +254,7 @@
     "REACT/Başlıksız.md",
     "REACT/Hooks/Performans",
     "REACT/Hooks",
-    "REACT",
     "Toyota/Hesaplar.md",
-    "Başlıksız",
     "1Yapılacaklar/sor.md",
     "Pasted image 20250326154757.png",
     "Başlıksız 18.md",
@@ -265,7 +267,6 @@
     "Pasted image 20250216224044.png",
     "Pasted image 20250204172736.png",
     "Pasted image 20250115031351.png",
-    "WhatsApp Görsel 2025-01-15 saat 03.05.49_171b321c.jpg",
     "Başlıksız.canvas"
   ]
 }
