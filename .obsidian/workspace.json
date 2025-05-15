@@ -103,8 +103,7 @@
               "title": "Yer İmleri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,7 +217,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "47d96c029bc752ad",
+  "active": "7fecf0e54502b8dd",
   "lastOpenFiles": [
     "Backend/Springboot/Dersler/Query Methods/Keywords.md",
     "Backend/Springboot/Dersler/Toyota yönelik/İsmail'in tavsiyesi.md",
