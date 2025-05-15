@@ -32,6 +32,13 @@ KopyalaDüzenle
 
 `User findByEmail(String email); // veya User findByEmailIs(String email);`
 
+``` java
+List<User> findByAgeEquals(int age);
+List<User> findByAgeIs(int age);
+List<User> findByAgeIsEqualTo(int age);`
+```
+
+
 ➡ Email bilgisi eşleşen kullanıcıyı getirir.
 
 ---
